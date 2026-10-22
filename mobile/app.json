@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Creator Commerce Ops",
+    "slug": "creator-commerce-ops",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic"
+  }
+}
